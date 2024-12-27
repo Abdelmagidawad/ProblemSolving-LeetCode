@@ -3,7 +3,7 @@ Problem Name: Valid Parentheses
 
 Problem on leetcode: https://leetcode.com/problems/valid-parentheses/
 
-Solve Problem Using C++:
+Solve Problem using javaScript:
 
 /**
  * @param {string} s
